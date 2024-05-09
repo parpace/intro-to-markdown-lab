@@ -12,7 +12,7 @@ Since you already read my guide to installing and setting up the Terminal, go ah
 
 ![Terminal Icon](https://www.tenforums.com/attachments/tutorials/379948d1669495311-add-remove-open-windows-terminal-administrator-context-menu-windows_terminal.png)
 
-2. Move your mouse over towards the Terminal icon.
+2. Position your mouse directly over the Terminal icon.
 3. Left click whilst the mouse is hovering over the Terminal icon.
 
 Great job! The Terminal popped up on your screen. Let's figure out what to do inside!
